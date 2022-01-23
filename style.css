@@ -1,0 +1,80 @@
+body {
+    text-align: center;
+    background: rgb(255, 0, 0);
+    background: linear-gradient(90deg, rgba(255, 0, 0, 1) 0%, rgba(118, 241, 244, 1) 49%, rgba(255, 243, 0, 1) 100%);
+    background: linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%);
+}
+
+img {
+    width: 500px;
+    border-radius: 100px;
+}
+
+li {
+    display: inline;
+    float: left;
+
+}
+
+
+
+.line1 {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+
+}
+
+.line2 {
+    height: 6px;
+    background-color: black;
+    width: 100%;
+    margin: 8px auto;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+.active {
+    background-color: #04AA6D;
+}
+
+
+
+html {
+    scroll-behavior: smooth;
+}
+
+#AboutMeTxt {
+    font-size: 31px;
+    color: black;
+    font-weight: 700;
+}
+
+#welcometxt {
+    font-size: 32px;
+    color: black;
+    font-weight: 700;
+}
