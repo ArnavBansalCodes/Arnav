@@ -109,6 +109,133 @@ html {
     border: 6px solid black;
 }
 
-#skill {
+#skillstuff {
     background: linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%);
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 30px;
+    justify-content: center;
+}
+
+#skillimg1 {
+    width: auto;
+    border-radius: 0px;
+    height: 120px;
+
+}
+
+#skill1 {
+    background-color: white;
+    height: 140px;
+    border-radius: 7px;
+    padding: 10px;
+    border-left: 6px solid blue;
+    width: 220px;
+    margin: 12.5px;
+}
+
+#skillimg2 {
+    width: auto;
+    border-radius: 0px;
+    height: 120px;
+}
+
+#skill2 {
+    background-color: white;
+    height: 140px;
+    border-radius: 7px;
+    padding: 10px;
+    border-left: 6px solid blue;
+    width: 220px;
+    margin: 12.5px;
+}
+
+#mySkillTXT {
+    font-size: 31px;
+    color: black;
+    font-weight: 700;
+    margin-top: 40px;
+}
+
+#skillimg3 {
+    width: auto;
+    border-radius: 0px;
+    height: 120px;
+}
+
+#skill3 {
+    background-color: white;
+    height: 140px;
+    border-radius: 7px;
+    padding: 10px;
+    border-left: 6px solid blue;
+    width: 220px;
+    margin: 12.5px;
+}
+
+#skillimg4 {
+    width: 145px;
+    border-radius: 0px;
+    padding-top: 20%;
+}
+
+#skill4 {
+    background-color: white;
+    height: 140px;
+    border-radius: 7px;
+    padding: 10px;
+    border-left: 6px solid blue;
+    width: 220px;
+    margin: 12.5px;
+}
+
+#skillimg5 {
+    width: 120px;
+    border-radius: 0px;
+
+}
+
+#skill5 {
+    background-color: white;
+    height: 140px;
+    border-radius: 7px;
+    padding: 10px;
+    border-left: 6px solid blue;
+    width: 220px;
+    margin: 12.5px;
+}
+
+#skillimg6 {
+    width: 120px;
+    border-radius: 0px;
+    padding-top: 15%;
+}
+
+#skill6 {
+    background-color: white;
+    height: 140px;
+    border-radius: 7px;
+    padding: 10px;
+    border-left: 6px solid blue;
+    width: 220px;
+    margin: 12.5px;
+}
+
+#skillimg7 {
+    width: 190px;
+    border-radius: 0px;
+    padding-top: 20%;
+}
+
+#skill7 {
+    background-color: white;
+    height: 140px;
+    border-radius: 7px;
+    padding: 10px;
+    border-left: 6px solid blue;
+    width: 220px;
+    margin: 12.5px;
 }
